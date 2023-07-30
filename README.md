@@ -8,7 +8,7 @@ The initial spawn point is called the Altair Virtual Lobby (AVL). This is a mode
 
 Developed with [A-Frame](https://aframe.io/). 
 
-Credits: 
+Built by:
 
 [Aidan Stewart](https://github.com/na-stewart)
 
