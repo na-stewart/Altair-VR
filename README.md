@@ -8,5 +8,15 @@ The initial spawn point is called the Altair Virtual Lobby (AVL). This is a mode
 
 Developed with [A-Frame](https://aframe.io/). 
 
+Credits: 
+
+[Aidan Stewart](https://github.com/na-stewart)
+[Griffin Beaudreau](https://github.com/CyberGriffin)
+[Andrew Douglass](https://www.linkedin.com/in/andrew-douglass-7a7a5318b/)
+[McKenna Potter](https://www.linkedin.com/in/mckenna-potter/)
+Pratheep Sridharan
+[Moriah Sun](https://www.linkedin.com/in/moriah-sun-66a665207/)
+[Zach Zeiner](https://www.linkedin.com/in/zach-zeiner-987061191/)
+
 ## Deployment Site:
 https://altairxrproto.z19.web.core.windows.net/
