@@ -26,3 +26,7 @@ Pratheep Sridharan
 
 ## Deployment Site:
 https://altairxrproto.z19.web.core.windows.net/
+
+To use Oculus Quest 2:
+- Open Oculus Browser.
+- Paste the above link into the browser.
