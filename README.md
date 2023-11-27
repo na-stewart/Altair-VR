@@ -1,6 +1,6 @@
 # Altair VR
 
-![alt text](https://github.com/altairorg/xrprototype/blob/main/altair-vr.PNG)
+![alt text](https://github.com/na-stewart/Altair-VR/blob/main/img.PNG)
 
 The [Altair Global Relocation](https://www.altairglobal.com/) VR Prototype is a web based VR experience developed for Altair Global. This project demonstrates how upcoming virtual reality technology can be utilized within the relocation industry. We accomplish this through different experiences that would be through the eyes of the employee being relocated. For example, a tour of Paris and a virtual apartment viewing. 
 
